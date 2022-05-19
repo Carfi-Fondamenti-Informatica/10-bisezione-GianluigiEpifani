@@ -1,6 +1,6 @@
 #include <iostream>
 #include <math.h>
-
+using namespace std;
 
 float f(float n){
     float y;
@@ -35,4 +35,3 @@ int main(){
     cout<<int(x*10000)/10000.0<<endl;
 
     return 0;
-}
